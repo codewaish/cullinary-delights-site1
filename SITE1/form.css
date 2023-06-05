@@ -1,0 +1,89 @@
+.buttons{
+    padding: 11px;
+    background-color: white;
+    border-radius: 10px
+}
+#btn1{
+    border: 2px solid blue;
+    color: blue;
+
+}
+#btn2{
+    border: 2px solid purple;
+    color: purple;
+
+}
+#btn3{
+    border: 2px solid green;
+    color: green;
+
+}
+#btn4{
+    border: 2px solid red;
+    color: red;
+
+}
+#btn5{
+    border: 2px solid orange;
+    color: orange;
+
+}
+#btn6{
+    border: 2px solid rgb(95, 80, 150);
+    color: rgb(95, 80, 150);
+
+}
+#btn7{
+    border: 2px solid white;
+    color: white;
+
+}
+#btn8{
+    border: 2px solid black;
+    color: black;
+
+}
+
+#btn1:hover{
+     background-color:  blue;
+    color: white;
+
+}
+#btn2:hover{
+    background-color: purple;
+    color: white;
+
+}
+#btn3:hover{
+         background-color: green;
+    color: white;
+
+}
+#btn4:hover{
+         background-color: red;
+    color: white;
+
+}
+#btn5:hover{
+     background-color:orange;
+    color: white;
+
+}
+#btn6:hover{
+         background-color: rgb(95, 80, 150);
+    color: white;
+
+}
+#btn7:hover{
+     background-color: white;
+    color: black;
+
+}
+#btn8:hover{
+        background-color: black;
+    color: white;
+
+}
+
+
+

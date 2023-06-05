@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(152, 52, 46);
+}
+
+h1{
+    color: green;
+
+}
+#heading1{
+    background-color: rgb(203, 99, 149);
+}
+.headings{
+    background-color: rgb(152, 46, 146);
+    width:250px;
+    text-align: center;
+}
+.para2{
+    width:80%;
+    margin-top: 80px;
+    border:3px blue dashed;
+}
+#para{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    
+}
+a{
+    color:white;
+    font-size: 40px;
+    text-decoration: none;
+}
+a:hover{
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(61, 42, 165);
+}
